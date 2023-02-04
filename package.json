@@ -1,0 +1,24 @@
+{
+  "name": "playground",
+  "source": "src/index.html",
+  "version": "1.0.0",
+  "description": "javascript playground projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "javascript",
+    "playground",
+    "testing",
+    "projects"
+  ],
+  "author": "Bogdan Bogdanovic",
+  "license": "ISC",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
