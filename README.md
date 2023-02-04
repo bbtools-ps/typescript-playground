@@ -7,7 +7,7 @@ Starter project for testing code in Typescript.
 1. Clone repository
 2. **npm install**
 3. **npm start**
-4. Use _app.ts_ file as entry point
+4. Use _src/app.ts_ file as entry point
 
 ## Extensions for VS code
 
