@@ -3,7 +3,6 @@
   "source": "src/index.html",
   "version": "1.0.0",
   "description": "javascript playground projects",
-  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel",
